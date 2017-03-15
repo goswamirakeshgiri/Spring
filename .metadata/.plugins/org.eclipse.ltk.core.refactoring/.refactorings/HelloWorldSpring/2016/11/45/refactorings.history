@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;resource&apos; to &apos;ClassicShapeExample/src&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorldSpring&apos;&#x0D;&#x0A;- Destination element: &apos;ClassicShapeExample/src&apos;&#x0D;&#x0A;- Original element: &apos;HelloWorldSpring/src/resource&apos;" description="Copy package" destination="=ClassicShapeExample/src" element1="/src&lt;resource" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1478279455146" version="1.0"/>
+</session>

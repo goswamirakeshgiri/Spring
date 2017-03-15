@@ -1,0 +1,20 @@
+package com.rg.bean;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Client {
+
+	public static void main(String[] args) {
+		int arr[] = {1, 2, 2, 3, 3, 3, 3};
+		  int x =  3;  // Element to be counted in arr[]
+	//	  int n = sizeof(arr)/sizeof(arr[0]);
+		  int c = countOccurance(arr, x, arr.length);
+		  System.out.println("3 occures"+c+" times");
+	}
+	private static int countOccurance(int[] arr, int x, int length) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:p="http://www.springframework.org/schema/p"
+xmlns:c="http://www.springframework.org/schema/c"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+ 
+ 
+<!--   <bean id="person" class="com.rg.bean.Person" p:name="Rakesh" p:age="30" p:emailID="goswamirakeshgiri@gmail.com"/>
+   
+    -->
+    
+     <bean id="address1" class="com.rg.bean.Address" scope="singleton" p:city="Pune"/>
+      		
+    <bean id="person" class="com.rg.bean.Person" scope="singleton" 
+    	c:name="Rakesh" 
+    	c:age="30"
+    	c:emailID="goswamirakeshgiri@gmail.com" 
+    	c:address-ref="address1"
+    />
+     
+  
+</beans>

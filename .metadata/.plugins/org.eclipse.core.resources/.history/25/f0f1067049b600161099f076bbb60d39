@@ -1,0 +1,31 @@
+package com.rg.app;
+
+package test;
+
+import java.util.*;
+
+/** TrieNode class is the backbone of Trie class */
+public class RadixTreeNode {
+
+	char key;
+	String value;
+	boolean isEnd;
+	int count;
+	LinkedList<TrieNode> childList;
+
+	/* Constructor */
+	public TrieNode(char c) {
+		childList = new LinkedList<TrieNode>();
+		isEnd = false;
+		key = c;
+		count = 0;
+	}
+
+	public TrieNode subNode(char c) {
+		if (childList != null)
+			for (TrieNode eachChild : childList)
+				if (eachChild.key == c)
+					return eachChild;
+		return null;
+	}
+}

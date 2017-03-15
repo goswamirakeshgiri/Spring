@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.rg.concurrency.Test.java&apos; to &apos;CallableDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;RunnableCallableDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.rg.concurrency.Test.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rg.concurrency.CallableDemo.java&apos;" description="Rename compilation unit &apos;Test.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.rg.concurrency{Test.java" name="CallableDemo.java" references="false" stamp="1480773335232" version="1.0"/>
+</session>

@@ -1,0 +1,1081 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54182c904a48364fc572e3a2631df14823c29cef",
+    "jarFileModificationDate": "2016-09-30T16:01:17.350+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-messaging-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bbfba91ee85db9272d2d5e239ceb0f3529744f2b",
+    "jarFileModificationDate": "2014-03-26T21:13:14+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-messaging-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "79b799dc954b670879f79ba5c980491f94a67e26",
+    "jarFileModificationDate": "2016-09-30T16:01:17.428+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de3c3a0d815678fa4234c1085cfb8279cf1f4a2c",
+    "jarFileModificationDate": "2016-09-30T16:01:17.347+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "76ba0e08c6b3df9fb1551f00189323dac8fc818c",
+    "jarFileModificationDate": "2016-09-30T16:01:17.352+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-web-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4d5066f31ea4b9c58957bf8c0c213b13ed44c1c5",
+    "jarFileModificationDate": "2014-03-26T21:07:04+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-web-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b71c2baa9bdf23951bb730f42cf27259317d83c4",
+    "jarFileModificationDate": "2014-03-26T21:12:26+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-portlet-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f2ea6e633bbf8f2519cd1ee982dc076d5aa7caff",
+    "jarFileModificationDate": "2014-03-26T21:14:10+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-portlet-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41eabd53fd4ba5ba2b2d8af6c256a3741f65c2f3",
+    "jarFileModificationDate": "2014-03-26T21:06:38+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-beans-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jms-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c120305a100d216a2d294277de7f0d324ef15973",
+    "jarFileModificationDate": "2014-03-26T21:13:08+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jms-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2014-07-05T23:41:55+05:30",
+    "location": "C:\\Users\\kHaNabAdoSh\\Downloads\\commons-logging-1.2-bin\\commons-logging-1.2\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8016f5f15d0fe401a6cfc305ae5af853156287bd",
+    "jarFileModificationDate": "2014-03-26T21:14:18+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-websocket-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82a0f9c5cbc2b79bdb6cfe80487691e232b26f9c",
+    "jarFileModificationDate": "2016-09-30T16:01:17.348+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-test-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "299b643be8d3fcb0e4c8f574a7f93d032a8b146e",
+    "jarFileModificationDate": "2014-03-26T21:13:36+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-test-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-instrument-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9d9d1b145eb79a668c174e0bd8dd7c0b7c3c2587",
+    "jarFileModificationDate": "2014-03-26T21:06:40+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "211cb74259d3f662751352559a990a619397d1ae",
+    "jarFileModificationDate": "2014-03-26T21:07:18+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-messaging-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-oxm-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bdf3f274f227fe912e47f116e381c3d26a5fe71a",
+    "jarFileModificationDate": "2014-03-26T21:13:28+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-oxm-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-instrument-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9000b86d457f2a0aaec9a2c49935a64104dc15e7",
+    "jarFileModificationDate": "2014-03-26T21:12:38+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jdbc-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5c86b94f15523b3b125c35861aeb4ca85897231a",
+    "jarFileModificationDate": "2014-03-26T21:06:56+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jdbc-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99a774311815b9b34da8314cc85e9a3ee1e7614e",
+    "jarFileModificationDate": "2014-03-26T21:14:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-build-src-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dd4b0dc6d5bb7c599e2fab4633d38db3ac33ce60",
+    "jarFileModificationDate": "2014-03-26T21:07:16+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-build-src-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d6a0214a1141b2f560264d7814035c2f03eac959",
+    "jarFileModificationDate": "2016-09-30T16:01:21.703+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-core-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ddd76a3c9e1e1957d81b5294859f67d7fd0c104b",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-core-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fad7416a84192c47f4d994dcc4ba9ff1c20568c2",
+    "jarFileModificationDate": "2016-09-30T16:01:17.435+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-web-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8966ddf414b798c92f51d6e4003148cf891cdb80",
+    "jarFileModificationDate": "2014-03-26T21:13:50+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-web-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-oxm-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6ea4ab77e311832f68d7166c93f59aa09d0230c3",
+    "jarFileModificationDate": "2014-03-26T21:13:28+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-oxm-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jdbc-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "024fe278bf52eac94afd8eb315ddb4eeac3da04b",
+    "jarFileModificationDate": "2014-03-26T21:13:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jdbc-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c0324f7c7a33ce6fb2d3543ba811828a8f68350e",
+    "jarFileModificationDate": "2014-03-26T21:12:08+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-beans-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e18cf496ee034e82a4f053c89944be2c4126861b",
+    "jarFileModificationDate": "2016-09-30T16:01:17.355+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-aop-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdddae6dabb5616096d8dc087ea7495356ce7cfc",
+    "jarFileModificationDate": "2014-03-26T21:12:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aop-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40b25b3a693cb4cc382ddf2e69ff1b29c75a2e7d",
+    "jarFileModificationDate": "2014-03-26T21:06:40+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-expression-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jms-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1027bc5293e55f36ccebef9da28ff6696324690",
+    "jarFileModificationDate": "2014-03-26T21:07:16+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jms-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-orm-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "92220b99c3a8b576286c10edd1726f837450bc2c",
+    "jarFileModificationDate": "2014-03-26T21:07:08+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-orm-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2192361e4b988f8f9a0e8ba3ad22e370469421de",
+    "jarFileModificationDate": "2016-09-30T16:01:17.290+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-aspects-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e0a8f3dbaffe501cc95f12365ea6751e629237c6",
+    "jarFileModificationDate": "2014-03-26T21:07:14+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aspects-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-core-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "59032a62d3a8e6435c015c5cfecde1bf0ddf43f1",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-core-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e39c4b1b3d2088094bd33a76d30fe071ae1b567d",
+    "jarFileModificationDate": "2016-09-30T16:01:21.508+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-jdbc-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "829b5bd62da37ccb8cfd5eb0fd931b926e6cfd4d",
+    "jarFileModificationDate": "2014-03-26T21:13:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jdbc-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e1aaec0a63e8d9ff1c992c379d39deabe15f8601",
+    "jarFileModificationDate": "2014-03-26T21:12:24+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-framework-bom-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aeb2536e0fad4e4bea051d92bc81283b69eb482f",
+    "jarFileModificationDate": "2014-03-26T21:07:16+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-framework-bom-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-portlet-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fbd46d1a9f3c899f07dbdd3e59ad5bc20958739",
+    "jarFileModificationDate": "2014-03-26T21:07:26+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-portlet-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ee918d7f1bac4636e0bc3d0fff08aa89555a0f8f",
+    "jarFileModificationDate": "2016-09-30T16:01:17.288+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-instrument-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ba774227c7adfdd7123efb7bf0bc65153792276",
+    "jarFileModificationDate": "2014-03-26T21:12:38+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "78f4f26931a651f8236758b449355fe9204d96c1",
+    "jarFileModificationDate": "2014-03-26T21:12:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aop-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5b57804d37a42f78681dc567e8210336d0f23ee",
+    "jarFileModificationDate": "2014-03-26T21:13:14+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-messaging-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-oxm-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e446b707245acfb8cd1933be835d5532c7606246",
+    "jarFileModificationDate": "2014-03-26T21:07:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-oxm-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "83dfa294b89feda22caba2842cdc32729554dd86",
+    "jarFileModificationDate": "2014-03-26T21:06:52+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-tx-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c6974b5060ad61a021c6da8611ef2e8363944360",
+    "jarFileModificationDate": "2016-09-30T16:01:17.289+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "779817e5f3810625c7b0f743fbf9193adfcb0069",
+    "jarFileModificationDate": "2016-09-30T16:01:21.457+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-core-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "138d28200d97f4affe9ccaa47fab54718b438319",
+    "jarFileModificationDate": "2014-03-26T21:06:34+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-core-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42568154affe91c3fe8755b0fd5e16f32adb4324",
+    "jarFileModificationDate": "2014-03-26T21:12:08+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-beans-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-orm-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b795ede3d3399004a7853e95aa75bdb9eb634c62",
+    "jarFileModificationDate": "2014-03-26T21:13:22+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-orm-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-test-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c36fe7c6bd088815d44db2fee62ee4d0e4a191b4",
+    "jarFileModificationDate": "2014-03-26T21:13:36+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-test-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d9ed2ac30dfc8c1b75446efd69a0c1b753066cf",
+    "jarFileModificationDate": "2014-03-26T21:07:30+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-websocket-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-web-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35ff7e39f712a7fba8e1cde344f8f9e2ca3a439c",
+    "jarFileModificationDate": "2014-03-26T21:13:50+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-web-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "827d7ba9327dad6e72f49d45432381156ef6f01c",
+    "jarFileModificationDate": "2016-09-30T16:01:21.588+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-instrument-tomcat-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54f6d8de33a22fe29f73491e5df31a3e5a636120",
+    "jarFileModificationDate": "2014-03-26T21:07:16+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-tomcat-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d453cfc4f27ac66c04c497314b63c72dae49fd38",
+    "jarFileModificationDate": "2014-03-26T21:14:18+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-websocket-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-portlet-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57a841d6e4cd3b2682e182ddfa4514a725c2c1c5",
+    "jarFileModificationDate": "2014-03-26T21:14:10+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-portlet-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-framework-bom-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f412fa1b329e2f4ab3be4355f267b61c0dff90a8",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-framework-bom-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-test-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "76b870a5aa132b4c0dd78cd061feb3e1652cddd1",
+    "jarFileModificationDate": "2014-03-26T21:07:28+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-test-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "04ab6fc3014fc4dc203cb13595be798009d27a68",
+    "jarFileModificationDate": "2014-03-26T21:14:00+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d6fd9778619ab87a41ae3aa879a53ee60f160c08",
+    "jarFileModificationDate": "2014-03-26T21:07:26+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-webmvc-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-support-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "daeb3ab42da9096074d1443f7d51e36515b056cf",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-support-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1369a7432e72741d04a8b35cba19ce91c2bed1f2",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-expression-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aspects-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "72ff5b0fdf611c5f9b281f43da5077704f557a42",
+    "jarFileModificationDate": "2014-03-26T21:12:06+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aspects-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-support-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13ffabc4cabc594e50274850dd94b39592151327",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-support-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcedf5329d7092d66cc9d2496687a5f29d883eb6",
+    "jarFileModificationDate": "2014-03-26T21:06:40+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aop-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-orm-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "751cdc23116294bfc6d84123b981f1b8a5155994",
+    "jarFileModificationDate": "2014-03-26T21:13:22+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-orm-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "68ced766576dde0c67c984cc9609ac6570600638",
+    "jarFileModificationDate": "2016-09-30T16:01:17.489+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "851d5e20259cae7abcdbddde8335f5fae0add8a8",
+    "jarFileModificationDate": "2016-09-30T16:01:17.339+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-aspects-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6e8441401fab61d39292b683192a36beccdf2098",
+    "jarFileModificationDate": "2014-03-26T21:12:06+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-aspects-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-framework-bom-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f412fa1b329e2f4ab3be4355f267b61c0dff90a8",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-framework-bom-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
+    "jarFileModificationDate": "2016-09-30T16:01:17.354+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-context-support-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "27535507818810b3dc17decee9f293565747094d",
+    "jarFileModificationDate": "2014-03-26T21:06:58+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-support-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-instrument-tomcat-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da3c54dae9dd6a72973ee43b91689b6d4e446cf7",
+    "jarFileModificationDate": "2014-03-26T21:12:42+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-tomcat-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1f59d2f924ae718f20441d62336e5e404ef9a226",
+    "jarFileModificationDate": "2014-03-26T21:13:36+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-tx-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-4.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0782a71a312dc307fa531023aa66247b9b4a109d",
+    "jarFileModificationDate": "2014-03-26T21:06:50+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-context-4.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dac3409a856fadefc7ad36cdc78d2b13af398ef2",
+    "jarFileModificationDate": "2014-03-26T21:12:32+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-expression-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jms-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "28c6dde51a4dd0ceddc4e8d42c250e7bbdb3d6c9",
+    "jarFileModificationDate": "2014-03-26T21:13:08+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-jms-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-4.0.3.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b9d73197856a28daa12037c6068e79a50c0fc2bb",
+    "jarFileModificationDate": "2014-03-26T21:13:36+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-tx-4.0.3.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12496c4949477ce4edb9cf9f32892d3e53a4a8f9",
+    "jarFileModificationDate": "2016-09-30T16:01:17.277+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_102\\lib\\ext\\access-bridge.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-instrument-tomcat-4.0.3.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8a4642d651e8ef223529dcb95383e4bea7dc8945",
+    "jarFileModificationDate": "2014-03-26T21:12:42+05:30",
+    "location": "D:\\Spring Resources\\spring-framework-4.0.3.RELEASE-dist\\spring-framework-4.0.3.RELEASE\\libs\\spring-instrument-tomcat-4.0.3.RELEASE-sources.jar",
+    "javaRuntime": false
+  }
+]

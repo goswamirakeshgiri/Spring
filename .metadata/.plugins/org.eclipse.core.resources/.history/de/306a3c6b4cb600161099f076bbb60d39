@@ -1,0 +1,97 @@
+package com.rg.app;
+
+import java.util.Scanner;
+
+public class KeyValueCollectUtilClient {
+
+	public static void main(String[] args) {
+		Scanner scaner = new Scanner(System.in);
+		final String CREATE="CREATE";
+		final String UPDATE="UPDATE";
+		final String DELETE="DELETE";
+		final String GET="GET";
+		final String GETALL="GETALL";
+		final String QUIT="QUIT";
+		
+		RadixTreeUtil tree = new RadixTreeUtil();
+
+		String inputCommand;
+		System.out.println("Enter valid Command from Given command List: ");
+		System.out.println(CREATE);
+		System.out.println(UPDATE);
+		System.out.println(DELETE);
+		System.out.println(GET);
+		System.out.println(GETALL);
+		System.out.println(QUIT);
+		
+		
+		inputCommand = scaner.next();
+		do {
+
+			switch (inputCommand) {
+			case CREATE:
+				try {
+					String k = scaner.next();
+					scaner.next();
+					String v = scaner.next();
+					tree.create(k, v);
+				} catch (Exception e) {
+					System.out.println(e.getMessage() + " not found ");
+				}
+
+				break;
+				
+			case "UPDATE":
+				try {
+					String key = scaner.next();
+					scaner.next();
+					String value = scaner.next();
+					if (tree.search(key) == true) {
+
+						tree.update(key, value);
+					} else {
+						System.out.println("## Key '" + key
+								+ "' does not exist ##");
+					}
+
+				} catch (Exception e) {
+					System.out.println(e.getMessage() + " not found ");
+				}
+
+				break;
+
+			case "DELETE":
+
+				try {
+					tree.delete(scaner.next());
+				} catch (Exception e) {
+					System.out.println(e.getMessage() + " not found ");
+				}
+				break;
+			case "GET":
+
+				try {
+					String key = scaner.next();
+
+					if (tree.search(key) == true) {
+
+						System.out.println(tree.getValue(key));
+					} else {
+						System.out.println("## Key '" + key
+								+ "' does not exist ##");
+					}
+				} catch (Exception e) {
+				}
+
+				break;
+			
+			default:
+				System.out.println("Wrong Entry \n ");
+				break;
+			}
+
+			inputCommand = scaner.next();
+		} while (!inputCommand.equalsIgnoreCase("QUIT"));
+	}
+
+}

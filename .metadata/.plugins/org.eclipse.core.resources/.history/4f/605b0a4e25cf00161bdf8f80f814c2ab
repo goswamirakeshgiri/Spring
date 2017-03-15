@@ -1,0 +1,35 @@
+package com.rg.bean;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Client {
+
+	public static void main(String[] args) {
+		int arr[] = {1, 2, 2, 3, 3, 3, 3};
+		  int x =  3;  // Element to be counted in arr[]
+	//	  int n = sizeof(arr)/sizeof(arr[0]);
+		  int c = countOccurance(arr, x, arr.length);
+		  System.out.println("3 occurances"+c+" times");
+	}
+	private static int countOccurance(int[] arr, int x, int length) {
+		
+		int firstIndex=findFirst(arr,0,length-1,x,length);
+		if(firstIndex==-1)
+		{
+			return -1;
+		}
+		int lastIndex=findLast(arr,0,length-1,x,length);
+		return lastIndex-firstIndex+1;
+	
+	}
+	private static int findLast(int[] arr, int low, int high, int x, int length) {
+		
+		return 0;
+	}
+	private static int findFirst(int[] arr, int low, int high, int x, int length) {
+		
+		return 0;
+	}
+
+}

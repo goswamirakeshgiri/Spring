@@ -1,0 +1,28 @@
+package com.rg.test;
+
+import org.junit.Test;
+
+import com.rg.app.DataMapUtil;
+
+import static org.junit.Assert.assertEquals;
+
+public class TestJunit {
+	
+   String message = "Hello World";	
+ //  MessageUtil messageUtil = new MessageUtil(message);
+   
+   
+
+   @Test
+   public void testCreate() {
+	   
+	   String k="FOOD";
+	   String v="APPLE";
+	   
+	   DataMapUtil.create(k, v);
+	   
+	   assertEquals(DataMapUtil.getValue(k).toString(),v);
+	   
+   //   assertEquals(message,messageUtil.printMessage());
+   }
+}

@@ -1,0 +1,54 @@
+package com.rg.bean;
+
+public class Client {
+
+	public static void main(String[] args) {
+		int arr[] = {1, 2, 2, 3, 3, 3, 3};
+		  int x =  3;  // Element to be counted in arr[]
+	//	  int n = sizeof(arr)/sizeof(arr[0]);
+		  int c = countOccurance(arr, x, arr.length);
+		  System.out.println("3 occurances"+c+" times");
+	}
+	private static int countOccurance(int[] arr, int x, int length) {
+		
+		int firstIndex=findFirst(arr,0,length-1,x,length);
+		if(firstIndex==-1)
+		{
+			return -1;
+		}
+		int lastIndex=findLast(arr,firstIndex,length-1,x,length);
+		return lastIndex-firstIndex+1;
+	
+	}
+	private static int findFirst(int[] arr, int low, int high, int x, int length) {
+		
+		if(high>=low)
+		{
+			int mid=low+high/2;
+			
+			if((mid==0 || x > arr[mid-1] ) && arr[mid]==x)
+				return mid;
+			else if(x > arr[mid])
+				findFirst(arr,mid+1,high,x,length);
+			else
+				findFirst(arr,low,mid-1,x,length);
+		}
+		return -1;
+	}
+	private static int findLast(int[] arr, int low, int high, int x, int length) {
+		
+		if(high>=low)
+		{
+			int mid=low+high/2;
+			
+			if((mid==0 || x < arr[mid+1] ) && arr[mid]==x)
+				return mid;
+			else if(x < arr[mid])
+				findLast(arr,low,mid-1,x,length);
+			else
+				findFirst(arr,mid+1,high,x,length);
+		}
+		return -1;
+	}
+
+}

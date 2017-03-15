@@ -1,0 +1,75 @@
+package com.rg.app;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class RadixTreeUtil {
+
+	private Map dataMap=new HashMap<String,String>();
+	//private RadixTreeNode root;
+
+	public RadixTreeUtil() {
+//		root = new RadixTreeNode(' ');
+	}
+
+
+	public void create(String k, String v) {
+		dataMap.put(k, v);	
+	}
+
+	public boolean search(String k) {
+		
+		if(dataMap.containsKey(k))
+		{
+			return true;
+		}
+		return false;
+	}
+	
+	
+	public String getValue(String k) {
+		
+		if(dataMap.containsKey(k))
+		{
+			return dataMap.get(k);
+		}
+		return null;
+	}
+
+	public void delete(String k) {
+		if (search(k) == false) {
+			System.out.println("Key:" + k + "not found");
+			return;
+		}
+		RadixTreeNode current = root;
+		for (char ch : k.toCharArray()) {
+			RadixTreeNode child = current.subNode(ch);
+			if (child.count == 1) {
+				current.childrens.remove(child);
+				return;
+			} else {
+				child.count--;
+				current = child;
+			}
+		}
+		current.isEnd = false;
+	}
+
+	
+	public void update(String k, String v) {
+
+		RadixTreeNode current = root;
+
+		for (char ch : k.toCharArray()) {
+
+			current = current.subNode(ch);
+		}
+		if (current.isEnd == true) {
+			current.value = v;
+		}
+
+	}
+
+}

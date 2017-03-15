@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+  <!--  <bean id="drawing" class="com.rg.Drawing" scope="singleton">
+      <property name="inputShape" value="Rectangle"></property>
+   </bean>
+ -->
+ <!-- To activate Required annotation -->
+ <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"></bean>
+ 
+  <bean id="a" class="com.rg.bean.A"  scope="prototype" />
+      <bean id="b" class="com.rg.bean.B"  scope="prototype" depends-on="a"/>
+      <bean id="c" class="com.rg.bean.C"  scope="prototype" depends-on="b"/>		
+  		 
+  	
+ 
+</beans>

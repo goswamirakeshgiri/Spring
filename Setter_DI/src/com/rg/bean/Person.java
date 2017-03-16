@@ -11,7 +11,10 @@ public class Person {
 		this.emailID = emailID;
 		this.age = age;
 	}
-
+	public Person()
+	{
+		
+	}
 	public void setName(String name) {
 		this.name = name;
 	}

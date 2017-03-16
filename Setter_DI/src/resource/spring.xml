@@ -12,6 +12,6 @@
   <bean id="person" class="com.rg.bean.Person" scope="singleton">
       <property name="name" value="Rakesh"></property>
         <property name="age" value="30"></property>
-          <property name="emailID" value="goswamirakeshgiri@gmail.com"></property>
+          <property name="emailID" value="goswamirakeshgiri@gmail.com"></property> 
    </bean>
 </beans>

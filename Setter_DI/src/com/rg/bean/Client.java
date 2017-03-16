@@ -1,11 +1,17 @@
 package com.rg.bean;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class Client {
 
 	public static void main(String[] args) {
-		int arr[] = {1, 2, 2, 3, 3, 3, 3};
+		ApplicationContext app=new ClassPathXmlApplicationContext("/resource/spring.xml");
+		Person p=(Person)app.getBean("person");
+		System.out.println(p);
+	/*	int arr[] = {1, 2, 2, 3, 3, 3, 3};
 		  int x =  3;  // Element to be counted in arr[]
-	//	  int n = sizeof(arr)/sizeof(arr[0]);
+	  int n = sizeof(arr)/sizeof(arr[0]);
 		  int c = countOccurance(arr, x, arr.length);
 		  System.out.println(" occurances"+c+" times");
 	}
@@ -51,6 +57,6 @@ public class Client {
 				findLast(arr,(mid+1),high,x,length);
 		}
 		return -1;
-	}
+	}*/
 
-}
+}}

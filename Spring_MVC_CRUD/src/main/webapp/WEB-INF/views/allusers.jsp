@@ -26,13 +26,10 @@
             <td>emailID</td>
             <td>cell Number</td>
         </tr>
-        <c:forEach items="${users}" var="Users">
+         <c:forEach items="${users}" var="u">
             <tr>
-            <td>${user.fname}</td>
-            <td>${user.lname}</td>
-            <td>${user.age}</td>
-            <td>${user.emailid}</td>
-            <td>${user.cellno}</td>
+            <td>${u.fname}</td>
+       
             </tr>
         </c:forEach>
     </table>

@@ -101,5 +101,8 @@ public class User {
 	                + age+"]";
 	    }
 	     
-
+	    public User()
+	    {
+	    	
+	    }
 }

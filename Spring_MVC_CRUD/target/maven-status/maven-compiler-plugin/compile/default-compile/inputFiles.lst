@@ -1,0 +1,11 @@
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\dao\UserDao.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\configuration\AppConfig.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\dao\AbstractDao.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\configuration\HibernateConfiguration.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\controller\AppController.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\service\UserService.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\model\User.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\service\UserServiceImpl.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\AppMain.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\configuration\AppInitializer.java
+D:\SpringWS\Spring_MVC_CRUD\src\main\java\com\rg\spring\dao\UserDaoImpl.java
